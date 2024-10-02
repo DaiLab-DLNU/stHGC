@@ -4,7 +4,7 @@
 ## Overview
 
 <div align="center">
-  <img src="1model.png" alt="Model Architecture">
+  <img src="model-1.png" alt="Model Architecture">
 </div>
 Advancements in spatial transcriptomics (ST) technology have enabled the analysis of gene expression while preserving
 cellular spatial information, greatly enhancing our understanding of cellular interactions within tissues. Accurate
